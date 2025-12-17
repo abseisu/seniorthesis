@@ -1,4 +1,3 @@
-# scripts/pull_crsp.py
 from __future__ import annotations
 
 import argparse
