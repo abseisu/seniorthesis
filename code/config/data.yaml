@@ -1,0 +1,9 @@
+crsp:
+  start: "1997-01-01"
+  end:   "2024-12-31"
+  monthly_cols: ["permno","date","ret","prc","shrout","shrcd","exchcd"]
+
+paths:
+  raw_monthly:      "data/raw/crsp_msf_1997_2024.parquet"
+  interim_labeled:  "data/interim/crsp_monthly_labeled.parquet"
+  processed_core:   "data/processed/crsp_monthly_core.parquet"
