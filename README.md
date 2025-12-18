@@ -34,8 +34,8 @@ This repository contains the complete codebase and Jupyter notebooks used to pro
             ├── Experiment 2 - Frontiers.ipynb
             ├── Experiment 3 - Out-of-Sample Performance.ipynb
             ├── misc/
-                ├── General Results.ipynb
-                ├── weekly_data_preview.ipynb 
+            |    ├── General Results.ipynb
+            |    ├── weekly_data_preview.ipynb 
             └── robustness/
                 ├── Estimation Robustness.ipynb
                 ├── PSD_Ridge Robustness.ipynb
