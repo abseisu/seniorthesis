@@ -45,7 +45,7 @@ All executable logic resides inside the `code/` directory.
 
 ## Data Requirements (Critical)
 
-> **Important:** This project requires CRSP data accessed via WRDS. CRSP data is proprietary and not included in this repository.
+> **Important:** This project requires CRSP data accessed via WRDS. CRSP data is proprietary and not included in this repository. To obtain an educational CRSP license, I worked with Yale Library Services, which maintains a licensing partnership with the University of Pennsylvania. Researchers affiliated with an academic institution should be able to pursue access through their own university libraries in a similar manner.
 
 You must be able to:
 
