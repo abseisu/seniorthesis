@@ -1,4 +1,4 @@
-# Senior Thesis: An Information-Theoretic Approach to Portfolio Diversification
+# An Information-Theoretic Approach to Portfolio Diversification
 
 This repository contains the complete codebase and Jupyter notebooks used to produce the empirical results in my senior thesis, *An Information-Theoretic Approach to Portfolio Diversification*. The primary objective of this repository is full reproducibility for researchers with appropriate data access.
 
