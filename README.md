@@ -33,10 +33,14 @@ This repository contains the complete codebase and Jupyter notebooks used to pro
             ├── Experiment 1 - Kernel Comparison.ipynb
             ├── Experiment 2 - Frontiers.ipynb
             ├── Experiment 3 - Out-of-Sample Performance.ipynb
+            ├── misc/
+                ├── General Results.ipynb
+                ├── weekly_data_preview.ipynb 
             └── robustness/
                 ├── Estimation Robustness.ipynb
                 ├── PSD_Ridge Robustness.ipynb
                 └── General Robustness Checks.ipynb
+
 ```
 
 All executable logic resides inside the `code/` directory.
@@ -189,10 +193,10 @@ data/
 1. `weekly_processing.ipynb` — MI / NMI kernel construction
 2. `weekly_computation.ipynb` — Kernel stabilization and GMRP weight computation
 3. `weekly_visualization.ipynb` — Diagnostics and plots
-4. `Experiment 1 - Kernel Comparison.ipynb`
-5. `Experiment 2 - Frontiers.ipynb`
-6. `Experiment 3 - Out-of-Sample Performance.ipynb`
-7. `Online_Learning_GMRP.ipynb` — Rolling GMRP
+4. `Online_Learning_GMRP.ipynb` — Rolling GMRP
+5. `Experiment 1 - Kernel Comparison.ipynb`
+6. `Experiment 2 - Frontiers.ipynb`
+7. `Experiment 3 - Out-of-Sample Performance.ipynb`
 8. Robustness notebooks
 9. NPEET notebooks (validation only)
 
